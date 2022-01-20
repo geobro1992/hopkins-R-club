@@ -3,6 +3,7 @@ Below are some useful links that most of the material is based upon, and a selec
 ## Useful Links
 **Online R resources I have found helpful:**\
 [Exploratory data analysis in R](https://bookdown.org/rdpeng/exdata/)\
+[Tidy Modeling with R](https://www.tmwr.org/)\
 [Coding Club](https://ourcodingclub.github.io/tutorials)\
 [Data Carpentry for ecologists](https://datacarpentry.org/R-ecology-lesson/)\
 [A compendium of clean graphs in R](https://www.shinyapps.org/apps/RGraphCompendium/index.php)\
