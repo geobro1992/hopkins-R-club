@@ -1,6 +1,6 @@
 # hopkins-R-club
 
-This is the working repository for the spring 2022 Hopkins lab R club.\
+Welcome to the working repository for the spring 2022 Hopkins lab R club.\
 Below is a brief description of each file's contents.
 
 ### Files
