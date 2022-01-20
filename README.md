@@ -1,16 +1,17 @@
 # hopkins-R-club
 
 This is the working repository for the spring 2022 Hopkins lab R club.\
-Below is a brief description of each script's contents.
+Below is a brief description of each file's contents.
 
 ### Contents
-Week 1\
-Week 2\
-Week 3\
-Week 4\
-Week 5\
-Week 6\
-Week 7\
-Week 8\
-Week 9\
-Week 10
+**resources.md** - useful R links and textbooks worth checking out\
+Week1.R\
+Week2.R\
+Week3.R\
+Week4.R\
+Week5.R\
+Week6.R\
+Week7.R\
+Week8.R\
+Week9.R\
+Week10.R
