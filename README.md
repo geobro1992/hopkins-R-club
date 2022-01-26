@@ -5,6 +5,7 @@ Below is a brief description of each file's contents.
 
 ### Files
 [**resources.md**](resources.md) - useful R links and textbooks worth checking out\
+[**glossary.md**](glossary.md) - terms you will likely come across and an explanantion of what they mean\
 Week1.R\
 Week2.R\
 Week3.R\
