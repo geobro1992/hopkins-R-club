@@ -24,5 +24,4 @@
 | !x	| Not x |
 | x \| y	| x OR y |
 | x & y	| x AND y |
-| isTRUE(x)	| test if X is TRUE |
 
