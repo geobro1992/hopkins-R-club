@@ -8,7 +8,7 @@ Below is a brief description of each file's contents.
 [**glossary**](glossary.md) - terms you will likely come across and an explanantion of what they mean\
 [**syntax**](syntax.md) - symbols you will likely come across and an explanantion of what they mean
 
-
+### Progression
 [**Week 1**](mock_data.R) - an overview of R object types and creating some mock datasets\
 Week2.R\
 Week3.R\
