@@ -10,7 +10,7 @@ Below is a brief description of each file's contents.
 
 ### Progression
 [**Week 1**](mock_data.R) - an overview of R object types and creating some mock datasets\
-Week2.R\
+[**Week 2**](data_manipulation.R) - an overview of logical operators and  useful _dplyr_ functions for data manipulation\
 Week3.R\
 Week4.R\
 Week5.R\
