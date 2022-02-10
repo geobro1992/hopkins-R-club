@@ -24,4 +24,6 @@
 | !x	| Not x |
 | x \| y	| x OR y |
 | x & y	| x AND y |
+| %in% | used to identify if an element belongs to a vector |
+| %>% | _dplyr_ pipe used to chain commands together |
 
