@@ -119,6 +119,44 @@ df.subset <- df %>%
 
 
 
+##################
+# Merging datasets
+##################
+
+surveys = data.frame(survey = as.factor(1:100),
+                 site = rep(LETTERS, length.out = 100),
+                 temp = sample(50:70, 100, replace = TRUE),
+                 precip = sample(0:1, 100, replace = TRUE)
+                 )
+
+species = data.frame(SURVEYID = rep(as.factor(1:100),10),
+                     taxa = sample(c("spider", "cat", "dog", "snake", "lizard", "hellbender"), 1000, replace = TRUE)
+                     ) 
+
+# The base R function is merge() 
+?merge
+base_merge <- merge(surveys, species, by.x = "survey", by.y = "SURVEYID")
+
+
+#-------------------------------------
+# dplyr has joins for merging datasets
+
+library(dplyr)
+
+# There are many types of joins you can perform
+
+# inner_join(x, y) keeps observations appearing in both tables.
+# left_join(x, y) keeps all observations in x and only adds matches from y.
+# right_join(x, y) keeps all observations in y and only adds matches from x. Note: it is the same as left_join(y, x)
+# full_join(x, y) keeps all observations in x and y; if there's no match, it returns NAs.
+
+# see https://r4ds.had.co.nz/relational-data.html#understanding-joins for more details
+
+# left_join example
+gg_merge <- left_join(surveys, species, by = c("survey" = "SURVEYID"))
+
+
+
 #####################
 # now it's your turn!
 
@@ -129,3 +167,7 @@ df.subset <- df %>%
 # 3. try combining dplyr functions (e.g. mutate() and case_by() to create a new factor)
 
 # 4. chain some of the dplyr functions with pipes
+
+# 5. create a second mock data frame and combine your two data frames using merge/join
+
+# 6. try out all of the different joins to see what they do 
