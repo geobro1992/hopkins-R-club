@@ -7,8 +7,8 @@ Below are some useful links that most of the material is based upon, and a selec
 [R for ecologists (youtube)](https://www.youtube.com/c/RforEcologists/videos)
 
 **Making pretty figures:**\
-[A compendium of clean graphs in R](https://www.shinyapps.org/apps/RGraphCompendium/index.php)\
-[R graph gallery](https://www.r-graph-gallery.com/)\
+[A compendium of clean graphs in base R](https://www.shinyapps.org/apps/RGraphCompendium/index.php)\
+[R graph gallery (ggplot)](https://www.r-graph-gallery.com/)\
 [ggplot extensions](https://exts.ggplot2.tidyverse.org/gallery/)
 
 **Stats resources:**\
