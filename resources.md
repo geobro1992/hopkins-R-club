@@ -8,7 +8,8 @@ Below are some useful links that most of the material is based upon, and a selec
 
 **Making pretty figures:**\
 [A compendium of clean graphs in R](https://www.shinyapps.org/apps/RGraphCompendium/index.php)\
-[R graph gallery](https://www.r-graph-gallery.com/)
+[R graph gallery](https://www.r-graph-gallery.com/)\
+[ggplot extensions](https://exts.ggplot2.tidyverse.org/gallery/)
 
 **Stats resources:**\
 [Test statistics](https://onishlab.colostate.edu/wp-content/uploads/2019/07/which_test_flowchart.png)\
