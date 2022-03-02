@@ -14,8 +14,3 @@ Below is a brief description of each file's contents.
 [**Week 3**](data_visualization.R) - basic plotting using base R and _ggplot2_\
 [**Week 4**](data_visualization_2.R) - beautifying plots in base R and _ggplot2_ with some real(ish) examples\
 [**Week 5**](stats_1.R) - linear regression and logistic regression with some real examples\
-Week6.R\
-Week7.R\
-Week8.R\
-Week9.R\
-Week10.R
