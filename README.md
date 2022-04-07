@@ -16,3 +16,4 @@ Below is a brief description of each file's contents.
 [**Lesson 5**](scripts/stats_1.R) - linear regression and logistic regression with some real examples\
 [**Lesson 6**](scripts/stats_2.R) - regression models for count data with some real examples\
 [**Lesson 7**](scripts/dates.R) - working with dates
+[**Lesson 8**](scripts/times.R) - working with times and time series
