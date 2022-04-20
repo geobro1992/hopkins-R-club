@@ -17,4 +17,5 @@ Below is a brief description of each file's contents.
 [**Lesson 6**](scripts/stats_2.R) - regression models for count data with some real examples\
 [**Lesson 7**](scripts/dates.R) - working with dates\
 [**Lesson 8**](scripts/times.R) - working with times and time series\
-[**Lesson 9**](scripts/time_series.R) - advanced time series analyses
+[**Lesson 9**](scripts/time_series.R) - advanced time series analyses\
+[**Lesson 10**](scripts/time_series_2.R) - working through Becca's behavior data
