@@ -18,4 +18,4 @@ Below is a brief description of each file's contents.
 [**Lesson 7**](scripts/dates.R) - working with dates\
 [**Lesson 8**](scripts/times.R) - working with times and time series\
 [**Lesson 9**](scripts/time_series.R) - advanced time series analyses\
-[**Lesson 10**](scripts/time_series_2.R) - working through Becca's behavior data
+[**Lesson 10**](scripts/time_series_2.R) - working through Becca's behavior data - [_recording_](https://video.vt.edu/media/Hopkins+R+Club/1_tlyl533t)
