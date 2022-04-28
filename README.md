@@ -18,4 +18,5 @@ Below is a brief description of each file's contents.
 [**Lesson 7**](scripts/dates.R) - working with dates\
 [**Lesson 8**](scripts/times.R) - working with times and time series - [_recording_](https://video.vt.edu/media/Hopkins+R+Club/1_7wrlj306)\
 [**Lesson 9**](scripts/time_series.R) - advanced time series analyses - [_recording_](https://video.vt.edu/media/Hopkins+R+Club/1_p0cq9g8k)\
-[**Lesson 10**](scripts/time_series_2.R) - working through Becca's behavior data - [_recording_](https://video.vt.edu/media/Hopkins+R+Club/1_tlyl533t)
+[**Lesson 10**](scripts/time_series_2.R) - working through Becca's behavior data - [_recording_](https://video.vt.edu/media/Hopkins+R+Club/1_tlyl533t)\
+[**Lesson 11**](scripts/mixed_models.R) - linear models with random effects
