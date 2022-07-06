@@ -20,6 +20,8 @@ Below is a brief description of each file's contents.
 [**Lesson 9**](scripts/time_series.R) - advanced time series analyses - [_recording_](https://video.vt.edu/media/Hopkins+R+Club/1_p0cq9g8k)\
 [**Lesson 10**](scripts/time_series_2.R) - working through Becca's behavior data - [_recording_](https://video.vt.edu/media/Hopkins+R+Club/1_tlyl533t)\
 [**Lesson 11**](scripts/mixed_models.R) - linear models with random effects - [_recording_](https://video.vt.edu/media/Hopkins+R+Club/1_pwzwu8if)\
-[**Lesson 12**](scripts/mixed_models_2.R) - mixed effects models and bootstrapping - [_recording_](https://video.vt.edu/media/Hopkins+R+Club/1_v1ctqopa)\
+[**Lesson 12**](scripts/mixed_models_2.R) - mixed effects models and bootstrapping - [_recording_](https://video.vt.edu/media/Hopkins+R+Club/1_v1ctqopa)
 
 [**Challenge 1**](scripts/challenge.R) - end of semester review
+
+[**Lesson 13**](scripts/GIS_in_R.R) - GIS in R
