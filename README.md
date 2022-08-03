@@ -24,4 +24,5 @@ Below is a brief description of each file's contents.
 
 [**Challenge 1**](scripts/challenge.R) - end of semester review
 
-[**Lesson 13**](scripts/GIS_in_R.R) - GIS in R - [_recording_](https://video.vt.edu/media/Hopkins+R+Club/1_azf2jn9b)
+[**Lesson 13**](scripts/GIS_in_R.R) - GIS in R - [_recording_](https://video.vt.edu/media/Hopkins+R+Club/1_azf2jn9b)\
+[**Lesson 14**](scripts/multivariate_analysis.R) - multivariate analysis in R
